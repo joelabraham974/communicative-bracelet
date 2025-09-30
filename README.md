@@ -8,6 +8,7 @@ A wearable device designed to enable non-verbal communication for students, succ
 ![Assembly](assets/bracelet3.png)
 ![Bracelet Design](assets/bracelet1.jpeg)
 
+
 ---
 
 ## 🔧 Features
